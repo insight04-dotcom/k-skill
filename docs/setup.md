@@ -24,6 +24,8 @@ KSKILL_SRT_ID=replace-me
 KSKILL_SRT_PASSWORD=replace-me
 KSKILL_KTX_ID=replace-me
 KSKILL_KTX_PASSWORD=replace-me
+KSKILL_TELEGRAM_BOT_TOKEN=replace-me
+KSKILL_TELEGRAM_CHAT_ID=replace-me
 LAW_OC=replace-me
 KIPRIS_PLUS_API_KEY=replace-me
 AIR_KOREA_OPEN_API_KEY=replace-me
@@ -69,6 +71,7 @@ bash scripts/check-setup.sh
 | --- | --- |
 | SRT 예매 | `KSKILL_SRT_ID`, `KSKILL_SRT_PASSWORD` |
 | KTX 예매 | `KSKILL_KTX_ID`, `KSKILL_KTX_PASSWORD` |
+| 텔레그램 메시지 푸시 | `KSKILL_TELEGRAM_BOT_TOKEN`, `KSKILL_TELEGRAM_CHAT_ID` |
 | 한국 법령 검색 (로컬 CLI/MCP) | `LAW_OC` |
 | 한국 법령 검색 (remote MCP endpoint) | 사용자 시크릿 불필요 (`url`만 등록, 장애 시 `법망` fallback 가능) |
 | 한국 부동산 실거래가 조회 | 사용자 시크릿 불필요 (기본 hosted proxy 사용) |

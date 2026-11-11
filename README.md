@@ -23,6 +23,7 @@ Claude Code, Codex, OpenCode, OpenClaw/ClawHub 등 각종 코딩 에이전트 �
 | SRT 예매 | SRT 열차 조회, 예약, 예약 확인, 취소 | 필요 | [SRT 예매 가이드](docs/features/srt-booking.md) |
 | KTX 예매 | KTX/Korail 열차 조회, 예약, 예약 확인, 취소 | 필요 | [KTX 예매 가이드](docs/features/ktx-booking.md) |
 | 카카오톡 Mac CLI | macOS에서 카카오톡 대화 조회, 검색, 메시지 전송 | 불필요 | [카카오톡 Mac CLI 가이드](docs/features/kakaotalk-mac.md) |
+| 텔레그램 메시지 푸시 | BotFather로 만든 내 봇으로 내 채팅/그룹/채널에 알림 메시지 푸시 | 필요 | [텔레그램 메시지 푸시 가이드](docs/features/telegram-push.md) |
 | 서울 지하철 도착정보 조회 | 서울 지하철 역 기준 실시간 도착 예정 열차 확인 | 불필요 | [서울 지하철 도착정보 가이드](docs/features/seoul-subway-arrival.md) |
 | 지하철 분실물 조회 | 지하철 역/물품명 기준 공식 LOST112 분실물 검색 조건과 유실물센터 진입점 안내 | 불필요 | [지하철 분실물 조회 가이드](docs/features/subway-lost-property.md) |
 | 긱뉴스 조회 | GeekNews 공개 RSS/Atom 피드 기반 최신 글 목록, 검색, 상세 확인 | 불필요 | [긱뉴스 조회 가이드](docs/features/geeknews-search.md) |
@@ -108,6 +109,7 @@ Claude Code, Codex, OpenCode, OpenClaw/ClawHub 등 각종 코딩 에이전트 �
 - [SRT 예매](docs/features/srt-booking.md)
 - [KTX 예매](docs/features/ktx-booking.md)
 - [카카오톡 Mac CLI](docs/features/kakaotalk-mac.md)
+- [텔레그램 메시지 푸시](docs/features/telegram-push.md)
 - [서울 지하철 도착정보 조회](docs/features/seoul-subway-arrival.md)
 - [지하철 분실물 조회 가이드](docs/features/subway-lost-property.md)
 - [긱뉴스 조회 가이드](docs/features/geeknews-search.md)

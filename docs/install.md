@@ -55,6 +55,7 @@ npx --yes skills add <owner/repo> \
   --skill hipass-receipt \
   --skill lotto-results \
   --skill kakaotalk-mac \
+  --skill telegram-push \
   --skill korean-law-search \
   --skill korean-privacy-terms \
   --skill real-estate-search \
@@ -96,6 +97,7 @@ npx --yes skills add <owner/repo> \
   --skill k-skill-setup \
   --skill srt-booking \
   --skill ktx-booking \
+  --skill telegram-push \
   --skill korean-law-search \
   --skill real-estate-search \
   --skill mfds-drug-safety \

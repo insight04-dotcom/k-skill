@@ -110,6 +110,7 @@ chmod 0600 ~/.config/k-skill/secrets.env
 
 - SRT: `KSKILL_SRT_ID`, `KSKILL_SRT_PASSWORD`
 - KTX: `KSKILL_KTX_ID`, `KSKILL_KTX_PASSWORD`
+- Telegram push: `KSKILL_TELEGRAM_BOT_TOKEN`, `KSKILL_TELEGRAM_CHAT_ID`
 - 로컬 한국 법령 검색: `LAW_OC` + `korean-law-mcp`
 - 한국 법령 검색 remote endpoint: 사용자 `LAW_OC` 없이 `url`만 등록, 장애 시 `법망` fallback
 - 한국 부동산 실거래가 조회: 사용자 시크릿 불필요 (기본 hosted proxy 사용)

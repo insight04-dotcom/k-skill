@@ -131,6 +131,8 @@
 - 서울교통공사 유실물센터: https://www.seoulmetro.co.kr/kr/page.do?menuIdx=541
 - GeekNews public RSS/Atom feed: https://feeds.feedburner.com/geeknews-feed
 - GeekNews home: https://news.hada.io
+- Telegram Bot API: https://core.telegram.org/bots/api
+- Telegram BotFather: https://core.telegram.org/bots/features#botfather
 - 기상청 단기예보 조회서비스: https://www.data.go.kr/data/15084084/openapi.do
 - 에어코리아 대기오염정보: https://www.data.go.kr/data/15073861/openapi.do
 - 에어코리아 측정소정보: https://www.data.go.kr/data/15073877/openapi.do
